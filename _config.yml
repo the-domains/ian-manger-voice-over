@@ -1,0 +1,23 @@
+name: Ian Manger Voice Over
+favicon: null
+layout_spectrum: 0.6326377850491554
+typography_spectrum: 0.4986934142652899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5414166478440166
+  lightness: 0.8213938761036843
+  saturation: 0.3495274360757321
+  rhythmicContrast: 0.4394086159300059
+purpose: []
